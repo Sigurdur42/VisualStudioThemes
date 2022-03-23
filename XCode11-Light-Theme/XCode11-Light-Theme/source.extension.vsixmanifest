@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="XCode11_Light_Theme.793a89af-3a53-4e85-917a-ee3b4832593f" Version="1.0" Language="en-US" Publisher="WiseTech Global" />
+        <Identity Id="XCode11_Light_Theme.793a89af-3a53-4e85-917a-ee3b4832593f" Version="1.1" Language="en-US" Publisher="Michael Wagner" />
         <DisplayName>XCode11_Light_Theme</DisplayName>
-        <Description>Empty VSIX Project.</Description>
+        <Description xml:space="preserve">VSCode port of the XCode light theme.</Description>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
